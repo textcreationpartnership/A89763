@@ -1,0 +1,279 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Not guiltie plead for the Lords, and others, of the Kings partie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89763</idno>
+            <idno type="STC">Wing N1388</idno>
+            <idno type="STC">Thomason E544_12*</idno>
+            <idno type="STC">ESTC R205993</idno>
+            <idno type="EEBO-CITATION">99865205</idno>
+            <idno type="PROQUEST">99865205</idno>
+            <idno type="VID">164946</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89763)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164946)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E544[12*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Not guiltie plead for the Lords, and others, of the Kings partie.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Annotation on Thomason copy: "Feb: 20 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  House of Lords --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="preface">
+            <pb n="1" facs="tcp:164946:1" rendition="simple:additions"/>
+            <head>
+               <hi>NOT GUILTIE</hi> Plead for the <hi>LORDS,</hi> and others, of the <hi>KINGS</hi> Partie.</head>
+            <head>THE PREFACE.</head>
+            <p>THe juſtneſſe of the <hi>KING'S Cauſe,</hi> is the juſtification of His Party, in the late Warres.</p>
+            <p>Whereas then, the late pretended High Court of Iuſtice charged His Majeſty, <hi>That He leavied Warre againſt the Parliament for erecting and uphol<g ref="char:EOLhyphen"/>ding in Himſelf an unlimited and tyranicall Power, to rule according to His will,</hi> &amp;c. It will be neceſſary, for the vindication of His Party, to ſhew firſt, <hi>That the KING took up Armes to maintain Regall Government, and His Legall Power only.</hi>
+            </p>
+            <p>And whereas they alle<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge, in their Charge, <hi>That the KING leavied War againſt the Parliament</hi> [firſt] <hi>at</hi> Beverly, <hi>about the</hi> 30 <hi>of</hi> Iune, 1642. I will make it cleare, from their previous words and actions, that they were firſt engaged in Treaſon and Rebellion, againſt the <hi>KING,</hi> and againſt the Crowne; for which they have no warrant or protection by the Priviledge of Parliament. <hi>And the Subjects are bound by the Law, and by their Allegiance to Serve the KING againſt every Rebellion, Power, and Might, rear'd againſt Him within this Land,</hi> 11 Hen. 7.1. <hi>And if the KING ſhall happen to be vanquiſhed, Subjects ſhall not ſuffer any thing, for the ſaid Deed, Duty, and Allegiance: And all Acts of proceſſe of Law hereafter to be made to the contrary, are to be void,</hi> Ibid.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <p>
+               <seg rend="decorInit">T</seg>O paſſe by the two Bills brought into the Houſe of Commons, <hi>for taking away Biſhops root and branch,</hi>
+               <note place="margin">Two Bils a<g ref="char:EOLhyphen"/>bout Biſhops &amp; the <hi>Militia, Husb.</hi> p. 251.543.</note> 
+               <hi>And for taking the Militia from the</hi> KING, <hi>and ſet<g ref="char:EOLhyphen"/>ling it in other hands,</hi> (both which Bills were re<g ref="char:EOLhyphen"/>jected in a full and free Convention of Parlia<g ref="char:EOLhyphen"/>ment.) Alſo to paſſe by the Tumults raiſed in <hi>December</hi> and <hi>Ja<g ref="char:EOLhyphen"/>nuary,</hi>
+               <note place="margin">Tumults in <hi>Ian.</hi> and <hi>De<g ref="char:EOLhyphen"/>cemb.</hi> 1641.</note> 1641. <hi>For reviving and carrying on the Bills before rejected, by driving away the diſſenting Members, and new moulding the two Houſes of Parliament.</hi>
+            </p>
+            <pb n="2" facs="tcp:164946:2"/>
+            <p>
+               <hi>The beginning of the Wa<g ref="char:cmbAbbrStroke">̄</g>rre between the King, and a Party of the Lords and Commons in Parliament.</hi>
+            </p>
+            <p>The remaining Party of the Knights,<note place="margin">A Party of the Houſe of Com. petition for the <hi>Militia.</hi>
+               </note> Citizens and Burgeſſes of the Houſe of Commons poſſeſſed with feares and jealouſies of a Deſigne to deſtroy the Parliament and Kingdome, petition His Majeſty that He would be pleaſed forthwith to put the Tower of <hi>London,</hi> and all other Forts, and the whole Militia of the King<g ref="char:EOLhyphen"/>dome, into the hands of ſuch Perſons as ſhall be recommended by them, <hi>Jan.</hi> 28. And the ſame Petition to His Majeſty is re<g ref="char:EOLhyphen"/>newed by the remaining Party of the Lords and Commons at <hi>Weſtminſter, Feb.</hi> 2.</p>
+            <p>Alſo they tender to His Majeſty an Ordinance for ſetling the power of the Militia in the two Houſes of Parliament,<note place="margin">Their Ordi<g ref="char:EOLhyphen"/>nance for ſet<g ref="char:EOLhyphen"/>ling the <hi>Mi<g ref="char:EOLhyphen"/>litia.</hi>
+               </note> 
+               <hi>Feb.</hi> 24.</p>
+            <p>Which Petition and Ordinance begot in His Majeſty alſo fears and jealouſies,<note place="margin">The King his feares and jealouſies.</note> of a Deſign againſt Himſelf, and againſt the Crown, to take away His Rights, and to alter the fundamentall Laws and Government of the Kingdome, as appears by His Anſwer, <hi>Jan.</hi> 28.</p>
+            <p>Nevertheleſſe (to comply with them) His Majeſty promiſed,<note place="margin">The Kings con<g ref="char:EOLhyphen"/>deſcentions, touching the Forts &amp; Caſtl. The Tower of <hi>London.</hi>
+               </note> that the Forts and Caſtles ſhould alwaies be in ſuch hands, (and only ſuch) as the Parliament may ſafely confide in, <hi>Jan.</hi> 28.</p>
+            <p>Alſo His Majeſty accepted of Sir <hi>John Conniers</hi> to be Lieute<g ref="char:EOLhyphen"/>nant of the Tower of <hi>London,</hi> in place of Sir <hi>John Biron, Feb.</hi> 11.</p>
+            <p>Laſtly,<note place="margin">The <hi>Militia</hi> of the Kingdome.</note> He accepted of the Lieutenants, by them nominated, to be intruſted with the Militia of the Counties, and offered to grant them Commiſſions, and Powers, as He had done this Par<g ref="char:EOLhyphen"/>liament to ſome Lords Lieutenants by their advice; promiſing alſo to continue the ſame ſo long as there ſhould be cauſe, <hi>Feb.</hi> 28.</p>
+            <p>But they are not herewith ſatisfied; and they inforce their Petition,<note place="margin">Their Vote for ſetling the <hi>Mi<g ref="char:EOLhyphen"/>litia.</hi>
+               </note> 
+               <hi>March</hi> 1. And ſet forth a Declaration of the grounds of their Feares and Jealouſies, <hi>March</hi> 9. And they Reſolve, and Vote, That in caſe of extreme danger (as at this time) and upon His Majeſtics Refuſall, the two Houſes of Parliament have power to Order the Militia of the Kingdome; and the Ordinance a<g ref="char:EOLhyphen"/>greed on by both Houſes for the Militia, doth oblige the People, and ought to be obeyed, by the fundamentall Laws of the Land, <hi>March</hi> 15.</p>
+            <p>Now (in farther compliance) His Majeſty condiſcended,<note place="margin">The Kings far<g ref="char:EOLhyphen"/>ther complianc' with them. 1642</note> That as the Militia was diſpoſed according to their deſires, So it
+<pb n="3" facs="tcp:164946:2"/>ſhould not be executed without their advice, <hi>April</hi> 28.</p>
+            <p>And then alſo He granted the ſame for the Corporations, which He had done formerly concerning the Counties.</p>
+            <p>But nor doth this ſatisfie them: and ſecure they cannot be (in their own opinion) unleſſe they have the ſole power of diſpoſing and executing the Militia without the KING. Nor unleſſe they have the Navie Royall alſo, which they ſeized, and diſpoſed of, <hi>March</hi> 28.</p>
+            <p>Now whether thoſe Lords and Commons did put themſelves into the Strength of the Kingdome, to prepare againſt Danger,<note place="margin">They ſeize the Navy Royall. <hi>Note.</hi> Ier. 17.9.</note> or for a Deſigne, the conſequents muſt ſhew: preceding Actions of this nature (by reaſon of the deceivableneſſe of the heart of man) being not to be rightly underſtood, but by the ſubſequent Managements.</p>
+            <p>And in their deportment afterward, I find more of confidence than of feare, more of audaciouſneſſe againſt the KING than of ſolicitouſneſſe for the Kingdome; an endeavour rather to ſub<g ref="char:EOLhyphen"/>vert and deſtroy, than to preſerve and maintaine the fundamen<g ref="char:EOLhyphen"/>tall Conſtitution and Government of the Kingdome and Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Sir <hi>John Hotham</hi> keeps the KING out of <hi>Hull, April</hi> 23.<note place="margin">Their deport<g ref="char:EOLhyphen"/>ment towards the King. Sir. <hi>Jo: Hotham.</hi>
+               </note> and the two Houſes juſtifie his trayterous Act. <hi>April</hi> 28. I call it a trayterous Act, becauſe <hi>to hold a Fort or Caſtle againſt the King, is to leavy Warre againſt the King:</hi> which <hi>is High Treaſon</hi> by the <hi>Statute</hi> of 25 <hi>Edw.</hi> 3.</p>
+            <p>Not long after, Mr. <hi>Martin</hi> ſaies openly in the Houſe of Com<g ref="char:EOLhyphen"/>mons,<note place="margin">M. <hi>Martin.</hi>
+               </note> and unreproved, <hi>That the</hi> KING's <hi>Office is forfeitable, and that the happineſſe of this Kingdome did not depend upon His Maje<g ref="char:EOLhyphen"/>ſty, or any of the Royall Branches of that Root.</hi>
+            </p>
+            <p>And Sir <hi>Henry Ludlow,</hi>
+               <note place="margin">
+                  <hi>Sir</hi> H. Ludlow.</note> 
+               <hi>That He was not worthy to be King of England;</hi> which doubtleſſe was the ſence of the Parliament; for <hi>May</hi> 26. both Houſes declare,<note place="margin">Of Depoſing and Murdering the <hi>KING.</hi>
+               </note> 
+               <hi>That thry ſhould not want duty or modeſty if they followed the higheſt preſidents of other Parlia<g ref="char:EOLhyphen"/>ments:</hi> that is, if they ſhould depoſe and murder the King, as other unparalleld Parliaments had done, <hi>Edward</hi> &amp; <hi>Richard</hi> both the Second.</p>
+            <p>
+               <hi>The Crowne it ſelf cannot eſcape them.</hi>
+               <note place="margin">They declare a<g ref="char:EOLhyphen"/>gainſt the <hi>Kings</hi> negative Vote.</note> For in the ſame Decla<g ref="char:EOLhyphen"/>ration, they deny the KING's Negative Vote in Parliament.</p>
+            <pb n="2" facs="tcp:164946:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:164946:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:164946:4"/>
+            <p>And to deprive <hi>the King and Crown</hi> of their power, not only in <hi>Law making,</hi>
+               <note place="margin">Their Propoſi<g ref="char:EOLhyphen"/>tions deſtru<g ref="char:EOLhyphen"/>ctive of Mo<g ref="char:EOLhyphen"/>narchy.</note> but alſo in <hi>Governing, June</hi> 2. They offer to His Majeſty <hi>Propoſitions deſtructive of Regality and Monarchie, viz.</hi> For the two Houſes of Parliament.</p>
+            <p n="1">1. To nominate the Lords of the Privy Conncell, and all the great Officers and Miniſters of State, and the chief Judges of the Land.</p>
+            <p n="2">2. To reforme Church-government, and the Liturgy as they ſhall think fit; and to call, and conſult with Divines to that pur<g ref="char:EOLhyphen"/>poſe.</p>
+            <p n="3">3. To diſpoſe and execute the <hi>Militia</hi> of the Kingdome, ac<g ref="char:EOLhyphen"/>cording to their Ordinance.</p>
+            <p n="4">4. To approve thoſe to whom the Command and Cuſtody of the Forts and Caſtles ſhall be committed.</p>
+            <p n="5">5. To admit ſuch Peeres as ſhall be made hereafter, to ſit and vote in Parliament.</p>
+            <p>And <hi>June</hi> 10.<note place="margin">Why thoſe Lords &amp; Com. took up Arms.</note> They ſent forth Propoſitions for bringing in Plate and money, and raiſing an Army, <hi>To make good what they had taken from, and declared againſt, and propoſed to his Majeſty;</hi> viz. <hi>To keep the Forts and Caſtles, and the</hi> Militia <hi>and Navy from Him; and to take from Him, and from the Crown, the power of Law making, and governing the Church and State: and to depoſe, and to deſtroy Him; and to root out His Poſterity, together with Monarchy.</hi>
+            </p>
+            <p>And is not this <hi>by force of Armes to ſhake off the yoks of ſubjecti<g ref="char:EOLhyphen"/>on, and to Rebell?</hi>
+            </p>
+            <p>Whereupon,<note place="margin">Why the King took up Arms. The Kings War vindicatory &amp; deſenſory.</note> 
+               <hi>June</hi> 16. His Majeſty in like manner publiſhed Propoſitions to his Subjects for bringing in Money and Plate, to raiſe an Army, <hi>for recovering the Forts, Caſtles, Militia, and Navy; and for maintaining and defending his Negative Vote, and the Power of the Crown, in Law-making and Governing; and for de<g ref="char:EOLhyphen"/>fence and preſervation of his-Royall Perſon, Dignity, and Poſterity.</hi>
+            </p>
+            <p>And is not this to take up Armes, for ſuppreſing Rebellion, <hi>againſt himſelfe, his Family, and the Crowne?</hi>
+            </p>
+            <p>And what the Lords and Commons declared, and propoſed from the beginning, againſt the King, and againſt the Crowne, the ſame in every particular did they demand in their <hi>Treaties at Oxford,</hi> 1642. <hi>and at <g ref="char:V">Ʋ</g>xbridge,</hi> 1644. And in proſecution of thoſe
+<pb n="5" facs="tcp:164946:4"/>Demands, and of their Rebellion, did they proſecute, and continue the War, untill they had ſubdued the King and his party, 1646.</p>
+            <p>And the King being wholly in their power, 1647. at <hi>Carubrook</hi> Caſtle, they ſent him 4. Bils, with new Propoſitions of Peace, which we had not knowne, but by the Anſwer of the Scots Commiſſio<g ref="char:EOLhyphen"/>ners, and they tell us,
+<list>
+                  <item>1. That the Preface compared with other parts of the Propo<g ref="char:EOLhyphen"/>ſitions,<note place="margin">The Propoſiti<g ref="char:EOLhyphen"/>ons the ſame as formerly; and ſo the Grounds &amp; ends of their War are the ſame.</note> 
+                     <hi>takes away the Kings Negative Voice, and cuts off all Roy<g ref="char:EOLhyphen"/>all Power and Right in Law-making.</hi>
+                  </item>
+                  <item>2. That they diveſt the King, his Poſterity and Crowne for ever of all Power and Right of the <hi>Militia.</hi>
+                  </item>
+                  <item>3. That they deprive the King of conferring <hi>Titles of Honour,</hi> and of diſpoſing of the <hi>great Officers of State,</hi> and the naming of <hi>Privy Councellours.</hi>
+                  </item>
+                  <item>4. That they take away <hi>the Court of Wards,</hi> and <hi>Forreſt Lands</hi> from His Majeſty.</item>
+                  <item>5. That <hi>the Four Bils</hi> were as followeth,
+<list>
+                        <item>I. For ſetling <hi>The</hi> Militia <hi>of England and Ireland</hi> in both Houſes of Parliament, and for raiſing Money for Maintainance of Forces at Sea and Land, by the two Houſes of Parliament.</item>
+                        <item>II. For <hi>juſtifying the Proceedings of Parliament</hi> in the late War.</item>
+                        <item>III. That <hi>all Peeres lately made,</hi> or to be made hereafter ſhall not ſit or vote in Parliament, but <hi>by the conſent of the two Houſes.</hi>
+                        </item>
+                        <item>IV. That the two Houſes ſhall have power to <hi>adjourn at pleaſure.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>And, that theſe their Propoſitions and Bills conteine the <hi>ends for which at firſt they engaged in this Warre; and which they have fought for, and for which ſo much Blood hath been ſhed,</hi> themſelves tell us plainly, in their Declaration concerning the Scots Papers <hi>pag.</hi> 6. 20. 28.</p>
+            <p>And doth not this juſtifie the King and His Party,<note place="margin">They Iuſtifie the Kings War.</note> their Cauſe, and Warre, <hi>for vindicating, and maintaining the Reſpective Powers, and Rights of the Crown?</hi>
+            </p>
+            <p>Their Proceeding alſo then <hi>(Relating to His Majeſties Ter<g ref="char:EOLhyphen"/>ſon)</hi> were according to their above-mentioned Speeches and De<g ref="char:EOLhyphen"/>clarations.</p>
+            <pb n="6" facs="tcp:164946:5"/>
+            <p>For, as when at firſt His Majeſty put Himſelf into their hands, they reſtrained Him at <hi>New-caſtle,</hi> and <hi>Holmeby;</hi> ſo upon refu<g ref="char:EOLhyphen"/>ſing their 4 Bils did they ſtrictly Impriſon Him at <hi>Carisbrooke-Caſtle;</hi>
+               <note place="margin">Their reſoluti<g ref="char:EOLhyphen"/>on to ſettle the Government without and againſt the <hi>King.</hi>
+               </note> and never was a KING of <hi>England</hi> Impriſoned by His Subjects, but he was Depoſed &amp; Murdered. In Order whereunto they paſſed thoſe Votes, <hi>Of making no more Addreſſes to the</hi> King, <hi>nor receiving any Meſſage from Him, Jan.</hi> 1. And they ſet forth a Declaration expreſſing the Reaſons of thoſe Votes, <hi>Febr.</hi> 11. And the Army reſolved <hi>to live and die with them,</hi>
+               <note place="margin">They proſecute the <hi>King</hi> and His Poſterity in order to the overthrow of Monarchy.</note> 
+               <hi>in maintenance of thoſe Votes, and in ſetling their deſigned Government without the KING, and againſt Him, Jan.</hi> 9. And though they ſeem to proſe<g ref="char:EOLhyphen"/>cute the <hi>King</hi> upon emergent provocations <hi>(that He made Warre againſt them, &amp;c.)</hi> Yet from Mr. <hi>Martin's</hi> Speech and Sir <hi>Henry Ludlow's,</hi> and from the Declaration of the two Houſes of Par<g ref="char:EOLhyphen"/>liament (before Armes were taken up, and before any Propoſi<g ref="char:EOLhyphen"/>tions ſent to the <hi>King</hi>) it appeares that from the beginning they had a Deſigne againſt His Majeſty; and what was ſpoken and declared then, is agitated and purſued now, (as then) <hi>meerly in Order to their great Deſigne againſt Royalty, and againſt Monarchy.</hi>
+            </p>
+            <p>
+               <hi>In order whereunto</hi> they declare now againſt <hi>the Kings Family and Poſterity, alſo,</hi> who cannot be (if His Majeſty were) guilty of any thing in relation to the Warre.</p>
+            <p>But Uſurpers are ever Murderers,<note place="margin">Vſurpers ſever Murtherers.</note> 2. <hi>Reg.</hi> 11.1. <hi>&amp; Matth.</hi> 12.38, 39, <hi>&amp;c.</hi>
+            </p>
+            <p>And doth not this juſtifie the KING and His Party, their Cauſe and Warre, <hi>for preſervation of His Royall Perſon, and Po<g ref="char:EOLhyphen"/>ſterity?</hi>
+            </p>
+            <div type="part">
+               <head>The renewing of the Warre, <hi>1648.</hi>
+               </head>
+               <p>NO mervaile then,<note place="margin">The grounds of renewing the Warre.</note> if the Warre now renewed the laſt yeare, by, and on behalfe of His Majeſty upon the ſame Reaſons and grounds, that Himſelfe at firſt undertooke it: <hi>(viz.) For re<g ref="char:EOLhyphen"/>covering the Forts and Caſtles, and the Militia, and the Navy, taken and detained from His Majeſty, and for defending, and maintaining the KIN'S Negative Vote, and the power of the KING and Crown, in Law making and governing; and for delivering His Ma<g ref="char:EOLhyphen"/>jeſty out of Priſon; and for preſerving the Royall Poſterity.</hi>
+               </p>
+               <pb n="7" facs="tcp:164946:5"/>
+               <p>And when they were viſibly acting,<note place="margin">By his Maje<g ref="char:EOLhyphen"/>ſties Loyall Subjects.</note> and compleating their trayterous and rebellious Deſignes upon the KING, and againſt the Crowne; how were all His Majeſties loyall Subjects to rowſe, and arme themſelves, for the reſcue of the KING, and of the Crowne; being bound by the Oath of Allegiance, <hi>to beare faith and true Allegiance to HIS MAJESTY, His Heires and Succeſſours, and Him and Them to defend to the utmoſt of their power, againſt all conſpiracies and attempts whatſoever, which ſhall be made againſt His, or their Perſons, their Crowne and Dignity.</hi>
+               </p>
+               <p>And how could the abuſed and miſled People of the King<g ref="char:EOLhyphen"/>dome but be enraged againſt you,<note place="margin">By the miſled People of the Kingdome.</note> who under the pretence of preventing a preſent Danger, wound themſelves into the chiefe Power and Government of the Kingdome. And under the ſpe<g ref="char:EOLhyphen"/>cious pretences of <hi>fighting for Religion and Liberty,</hi> ingaged them in the maintenance of <hi>their uſurpation,</hi> and made them inſtru<g ref="char:EOLhyphen"/>mentall to promote <hi>Rebellion.</hi>
+               </p>
+               <p>And conſidering their Proteſtation and the Nationall Cove<g ref="char:EOLhyphen"/>nant, how ſhould Engliſh and Scots both endeavour to bring to condigne puniſhment thoſe Peſts of the Common-wealth, who have not onely themſelves done contrary to thoſe Oathes, but have forced others alſo to doe the like, <hi>in all things concerning the KING, His Perſon, His Poſterity, Nis Honour, His Eſtate, His Authority, His juſt Power, and His Gr<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>neſſe;</hi> which they Cove<g ref="char:EOLhyphen"/>nanted ſhould not be<note n="(a)" place="margin">For why? <hi>Crimen laſe vel Dominatae Ma<g ref="char:EOLhyphen"/>jeſtaris,</hi> is High Treaſon.</note> 
+                  <hi>diminiſhed:</hi> and ſo through their diſ<g ref="char:EOLhyphen"/>loyalty and perjury are like to involve us in new difficulties, and inextricable, unexpreſſible, unconceivable troubles and miſchiefs.</p>
+            </div>
+            <div type="part">
+               <head>The true ſtate of the late Warre.</head>
+               <p>THus, upon the whole matter, a Rebellious Party of Lords and Commons aſſembled in Parliament, tooke up Armes, to overthrow the Fundamentall Conſtitution and Government of the Kingdome; and to deſtroy HIS MAJESTY and His Royall Family, together with Monarchy: And the KING tooke up Armes to ſuppreſſe this horrid-Rebellion: And His Subjects, according to their bounden duty, ſerved Him in His Warres; both in the firſt, and in the ſecond Warre: And for this ſervice in both, I pronounce them, NOT GUILTY.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="8" facs="tcp:164946:6"/>
+            <head>Poſtſcript.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>WHereas the KING is farther charged, by the late Warre, to have violated <hi>the Oath taken at His Coronation,</hi> there is nothing leſſe.</p>
+            <p>For, by that Oath He binds Himſelfe, <hi>as to protect</hi> His loyall Subjects, <hi>ſo to doe juſtice</hi> upon Rebels and Traytors.</p>
+            <p>Saint <hi>Paul</hi> alſo tels us, That the higher Power is <hi>to pro<g ref="char:EOLhyphen"/>tect</hi> and <hi>puniſh,</hi> both.</p>
+            <p>Wilt thou not be afraid of the Power? doe that which is good, and thou ſhalt have praiſe of the ſame.</p>
+            <p>For, he is the Minister of God to thee for thy good; But if thou doe that which is evill, be afraid, for he beareth not the Sword in vaine; for he is the Miniſter of God, a re<g ref="char:EOLhyphen"/>venger to execute wrath upon him that doth evil, <hi>Rom. 13. v. 3, 4.</hi>
+            </p>
+            <p>And they who ſet up Judicatories, and Courts of Juſtice, not by Gods Authority, but the Peoples pretended Power, and proceed <hi>not as His Miniſters, but as their Officers,</hi> doe not indeed execute Iuſtice, and Iudgment, but kill and murder, under pretence of Iudgment and Iustice.</p>
+            <p>O conſider this you that forget God, <hi>Pſal. 50.22.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
